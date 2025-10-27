@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "Wireless Mouse",
+    "slug": "wireless-mouse",
+    "description": "A comfortable wireless mouse with fast response.",
+    "price": 899,
+    "category": "Electronics",
+    "inventory": 25,
+    "lastUpdated": "2025-10-27T12:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Bluetooth Speaker",
+    "slug": "bluetooth-speaker",
+    "description": "Portable Bluetooth speaker with clear sound.",
+    "price": 1999,
+    "category": "Audio",
+    "inventory": 12,
+    "lastUpdated": "2025-10-27T12:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Laptop Stand",
+    "slug": "laptop-stand",
+    "description": "Adjustable aluminum laptop stand for desk setup.",
+    "price": 1499,
+    "category": "Accessories",
+    "inventory": 8,
+    "lastUpdated": "2025-10-27T12:00:00Z"
+  },
+  {
+    "name": "Mobile",
+    "price": "20000",
+    "category": "Samsam",
+    "inventory": "Samasm",
+    "description": "Mobile cute one",
+    "slug": "mobile",
+    "id": "4",
+    "lastUpdated": "2025-10-27T21:20:42.987Z"
+  }
+]
